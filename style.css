@@ -11,15 +11,12 @@
 .background{
     background-image: url(/img/pattern.png);
     background-color: rgb(78, 160, 255);
-    height: 170px;
-    position: relative;
 }
 
 .logo{
     height: 60px;
-    position: absolute;
-    bottom: 10px;
-    left: 6px;
+    margin-top: 100px;
+    margin-left: 10px;
 }
 
 .margin{
