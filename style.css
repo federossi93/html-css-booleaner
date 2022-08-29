@@ -33,3 +33,56 @@
 .color_blu{
     color: rgb(80, 188, 235);
 }
+
+#note{
+    font-size: 10px;
+    margin-bottom: 20px;
+}
+.illuminated{
+    background-color: rgb(255, 255, 0);
+}
+.list{
+    margin-top: 20px;
+}
+
+.table{
+    margin-top: 30px;
+    background-color: rgb(78, 160, 255);
+
+}
+
+.thead{
+    display: inline-block;
+    width: 24%;
+    color: white;
+}
+
+.thead_text{
+    display: inline-block;
+    width: 50%;
+    color: white;
+}
+
+.line_one{
+    display: inline-block;
+    width: 24%;
+}
+
+.line_two{
+    display: inline-block;
+    width: 24%;
+}
+
+.line_tree{
+    display: inline-block;
+    width:50%;
+}
+
+.row_uno , .row_tre {
+    height: 70px;
+    background-color: rgba(80, 189, 235, 0.585);
+}
+
+.row_due{
+    height: 70px;
+}
