@@ -3,6 +3,11 @@
     margin: 0;
 } 
 
+.box{
+    width: 80%;
+    margin: auto;
+}
+
 .background{
     background-image: url(/img/pattern.png);
     background-color: rgb(78, 160, 255);
