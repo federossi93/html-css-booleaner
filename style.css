@@ -3,10 +3,10 @@
     margin: 0;
 } 
 
-.box{
+/* .box{
     width: 80%;
     margin: auto;
-}
+} */
 
 .background{
     background-image: url(/img/pattern.png);
@@ -54,7 +54,35 @@
     margin-top: 20px;
 }
 
-.table{
+.back_color_blu{
+    background-color: rgb(78, 161, 255);
+}
+
+.thead{
+    width: 25%;
+    color: white;
+    text-align: left;
+}
+
+.thead_text{
+    width: 50%;
+    color: white;
+    text-align: left;
+}
+
+.style{
+    border-collapse: collapse;
+}
+
+.back_color_c{
+    background-color:rgba(80, 189, 235, 0.56);
+}
+
+#margine{
+    margin-top: 20px;
+}
+
+/* .table{
     margin-top: 30px;
     background-color: rgb(78, 160, 255);
 
@@ -94,7 +122,7 @@
 
 .row_due{
     height: 70px;
-}
+} */
 
 .to_interes{
     margin-bottom: 5px;
