@@ -4,7 +4,7 @@
 } 
 
 .background{
-    background-image: url(/img/pattern.png);
+    background-image: url(./img/pattern.png);
     background-color: rgb(78, 160, 255);
 }
 
